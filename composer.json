@@ -1,11 +1,11 @@
 {
-  "name" : "ferrewagner/skepticism",
+  "name" : "zhou3388232/comopser-test",
   "description" : "PHP micro Framework",
   "license":"MIT",
   "version":"1.0",
   "authors": [
         {
-            "name": "FerreWagner",
+            "name": "zhou3388232",
             "email": "xx@gmail.com"
         }
     ],
